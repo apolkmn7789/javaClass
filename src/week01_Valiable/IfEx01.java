@@ -1,3 +1,5 @@
+package week01_Valiable;
+
 public class IfEx01 {
     public static void main(String[] args) {
         int age = 24;

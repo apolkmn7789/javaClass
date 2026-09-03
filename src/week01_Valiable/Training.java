@@ -1,3 +1,5 @@
+package week01_Valiable;
+
 public class Training {
     public static void main(StringEX01[] args) {
         // 기본 타입 선언예시

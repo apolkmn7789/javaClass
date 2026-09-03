@@ -1,3 +1,5 @@
+package week01_Valiable;
+
 import java.util.Scanner;
 
 public class DeveloperProfile {

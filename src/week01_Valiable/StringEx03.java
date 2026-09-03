@@ -1,3 +1,5 @@
+package week01_Valiable;
+
 public class StringEx03 {
     public static void main(String[] args) {
         String raw = " Java Backend ";

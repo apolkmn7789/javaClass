@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package week01_Valiable;
 
 public class Printf {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package week01_Valiable;
+
 public class FinalEx01 {
     public static void main(StringEX01[] args) {
         final int PASS_SCORE = 60;

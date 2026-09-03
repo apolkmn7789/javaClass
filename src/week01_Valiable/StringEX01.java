@@ -1,3 +1,5 @@
+package week01_Valiable;
+
 public class StringEX01 {
     public static void main(String[] args) {
         String name = "감자바";

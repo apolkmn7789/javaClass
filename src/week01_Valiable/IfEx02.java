@@ -1,3 +1,5 @@
+package week01_Valiable;
+
 public class IfEx02 {
     public static void main(String[] args) {
         int score = 75;
