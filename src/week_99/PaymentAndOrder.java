@@ -50,7 +50,8 @@ public class PaymentAndOrder {
                     if (quantity < 1) {
                         System.out.println("수량은 1개 이상이어야 합니다.");
                     }
-                } while (quantity < 1);
+                }
+                while (quantity < 1);
 
                 if (menu == 1) {
                     coffeeCount += quantity;
